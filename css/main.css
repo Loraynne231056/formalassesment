@@ -49,11 +49,22 @@ nav{
     padding-top: 80px;
     margin-left: 90px;
     color: white;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
 }
-.header h4{
-    padding-top: 100px;
-    margin-left: 90px;
+.line{
+    width: 100px;
+    height: 2px;
+    background-color: white;
+   margin: 0 auto;
+   margin-top: 50px;
+}
+.header h3{
+    padding-top: 50px;
+    text-align: center;
     color: white;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
 }
 form {
     width: 100%;
